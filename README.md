@@ -49,8 +49,6 @@ insontis gnatae genitor spe captus iniqua
 supremum hunc natae miserandus defleo finem.    
      = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:10.1
 
-````
-
 
 ## Editions, Exemplars, Analyses, & Deformations
 
