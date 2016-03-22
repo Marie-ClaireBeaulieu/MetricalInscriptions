@@ -29,25 +29,21 @@ Greece gave the first prize for flute playing to the Theban Potamon and this tom
 
 ## Three Hexameter Lines followed by one pentameter
 
- —  ⏑ ⏑ |— — | —   — | —  ⏑ ⏑|— ⏑⏑| — — 
-Secreti Manes, qui regna Acherusia Ditis
-     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:3.1
+ — — |— — | —  ⏑ ⏑|— — |— ⏑⏑| — — 
+Ἑλλὰς μὲν πρωτεῖα τέχνης αὐλῶν ἀπένειμεν
+     = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:1.1
 
-—  ⏑ ⏑|—     — | —  ⏑  ⏑|—    —  | — ⏑ ⏑|—  — 
-incolitis, quos parua petunt post lumina uitae
-     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:4.1
+- - |- ⏑⏑| - ⏑ ⏑| - ⏑⏑ | - ⏑ ⏑ | - ⏑
+Θηβαίωι Πο<τ>άμωνι, τάφος δ’ ὅδε δέξατο σῶμα·
+     = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:2.1
 
-— ⏑ ⏑|—  ⏑ ⏑ |—   ⏑ ⏑|—  — | —  ⏑ ⏑ |—   — 
-exiguus cinis et simulacrum corporis umbra:
-     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:6.1
+— — |— — | —  ⏑ ⏑|— — |— ⏑⏑| — — 
+	πατρὸς δὲ μνήμαισιν Ὀλυνπίχου αὔξετ’ ἔπαινος
+     = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:3.1
 
-—  — |—    —|—   ⏑ ⏑|—    —| —  ⏑  ⏑|—  —
-insontis gnatae genitor spe captus iniqua
-     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:8.1
-
- —  —|—   ⏑    ⏑|—   ⏑ ⏑|—  —  |—  ⏑⏑ |— —
-supremum hunc natae miserandus defleo finem.    
-     = urn:cts:ctsDemo:tufts:cle395.dipl.poetry:10.1
+-⏑ ⏑ | - - - | - ⏑ ⏑ | - ⏑ ⏑ -
+οἷον ἐτέκνωσεμ παῖδα σοφοῖς βάσανον.
+     = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:4.1
 
 
 ## Editions, Exemplars, Analyses, & Deformations
