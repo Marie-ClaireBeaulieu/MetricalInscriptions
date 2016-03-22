@@ -33,7 +33,7 @@ Greece gave the first prize for flute playing to the Theban Potamon and this tom
 Ἑλλὰς μὲν πρωτεῖα τέχνης αὐλῶν ἀπένειμεν
      = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:1.1
 
-- - |- ⏑⏑| - ⏑ ⏑| - ⏑⏑ | - ⏑ ⏑ | - ⏑
+— — |— ⏑⏑| - ⏑ ⏑| - ⏑⏑ | - ⏑ ⏑ | - ⏑
 Θηβαίωι Πο<τ>άμωνι, τάφος δ’ ὅδε δέξατο σῶμα·
      = urn:cts:ceg:ceg.509.TempTexts-ed-2013-3:2.1
 
